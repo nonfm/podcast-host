@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+	<channel>
+		<title><![CDATA[Non-Rock Radio]]></title>
+		<description><![CDATA[Non-Rock Radio 是一个不局限风格的J-ROCK电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。]]></description>
+		<link>https://weibo.com/nonrockradio</link>
+		<image>
+			<url>https://cdnimg.lzpipi.com/pod/2022/02/14/2923988321828330496_1000x1000.png</url>
+			<title>Non-Rock Radio</title>
+			<link>https://weibo.com/nonrockradio</link>
+		</image>
+		<generator>Non-Rock Radio</generator>
+		<atom:link href="https://nonfm.github.io/podcast-host/feed.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[nonrockradio]]></author>
+		<copyright><![CDATA[Non-Rock Radio]]></copyright>
+		<language><![CDATA[zh-CN]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>nonrockradio</itunes:author>
+		<itunes:summary>Non-Rock Radio 是一个不局限风格的J-ROCK电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>nonrockradio</itunes:name>
+			<itunes:email>nonfm@vivaldi.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Music"/>
+		<itunes:image href="https://cdnimg.lzpipi.com/pod/2022/02/14/2923988321828330496_1000x1000.png"/>
+		<item>
+			<title><![CDATA[Vol.3 听歌部部员们的入坑经历 ②]]></title>
+			<description><![CDATA[<p>听歌部部员们的某些入坑经历 其二<br>
+<br>
+<strong>本期嘉宾</strong>：文森+千秋+浪姐<br>
+<strong>本期主播</strong>：板板<br>
+<br>
+在<a href="https://mo.run/nonrock/">各大平台</a>搜索订阅 “<strong>nonrockradio</strong>”即可：<br>
+Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br>
+<br>
+RSS 订阅：https://nonfm.github.io/podcast-host/feed.xml<br>
+若有任何想法，欢迎来信告诉我们：nonfm@vivaldi.net<br>
+<br>
+<strong>时间点</strong>：<br>
+01:29 文森-热血青年的青春生活<br>
+15:16 千秋-文艺青年的青春生活<br>
+34:01 浪姐-叛逆青年的青春生活<br>
+<br>
+音频剪辑：千秋<br>
+<br>
+<strong>使用歌曲</strong>：<br>
+00:00 GOMES THE HITMAN - 溶けて死ぬのさ(2022version)<br>
+04:17 ELLEGARDEN - Salamander<br>
+09:38 ELLEGARDEN - The Autumn Song<br>
+19:21 いきものがかり - 花は桜 君は美し<br>
+26:48 いきものがかり - SAKURA<br>
+34:56 ASIAN KUNG-FU GENERATION - 遥か彼方<br>
+48:27 ASIAN KUNG-FU GENERATION - 迷子犬と雨のビート</p>
+]]></description>
+			<link>https://nonfm.news.blog/2022/11/01/san</link>
+			<guid>2022/11/05/2973046538087696390</guid>
+			<pubDate>Tue, 01 Nov 2022 15:01:50 +0800</pubDate>
+			<enclosure url="https://cdn.gzlzfm.com/audio/2022/11/05/2973046538087696390_ud.mp3" length="133676160" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:41</itunes:duration>
+			<itunes:image href="https://cdnimg101.mlychee.com/audio_cover/2022/11/05/2973046540235977223_1000x1000.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Vol.2 意外的乐队与意外的歌曲 ①]]></title>
+			<description><![CDATA[<p>这场二次元Party是谁还没入场 其一<br>
+<br>
+<strong>本期嘉宾</strong>：板板+千秋+浪姐+文森<br>
+<strong>本期主播</strong>：文森<br>
+<br>
+在<a href="https://mo.run/nonrock/">各大平台</a>搜索订阅 “<strong>nonrockradio</strong>”即可：<br>
+Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br>
+<br>
+RSS 订阅：https://nonfm.github.io/podcast-host/feed.xml<br>
+若有任何想法，欢迎来信告诉我们：nonfm@vivaldi.net<br>
+<br>
+<strong>时间点</strong>：<br>
+01:54 板板-PSYCHO PASS和NCIS<br>
+11:33 千秋-TOKYO GHOUL和PITB<br>
+29:13 浪姐-ULTRASEVEN X和PTP<br>
+35:41 文森-C和SFP和NTtW<br>
+<br>
+音频剪辑：千秋<br>
+<br>
+<strong>使用歌曲</strong>：<br>
+00:00 根岸貴幸 - 封印解除<br>
+10:02 Nothing's Carved In Stone - Out of Control -アニメバージョン-<br>
+13:11 People In The Box - 聖者たち (TV edit)<br>
+30:18 Pay money To my Pain - Another day comes (TV SIZE)<br>
+36:10 School Food Punishment - RPG (TV size)<br>
+50:03 NICO Touches the Walls - マトリョーシカ (TV Version)</p>
+]]></description>
+			<link>https://nonfm.news.blog/2022/09/23/er</link>
+			<guid>2022/09/23/2965045467135083526</guid>
+			<pubDate>Fri, 23 Sep 2022 14:00:00 +0800</pubDate>
+			<enclosure url="https://cdn.gzlzfm.com/audio/2022/09/23/2965045467135083526_ud.mp3" length="123762937" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:34</itunes:duration>
+			<itunes:image href="https://cdnimg101.mlychee.com/audio_cover/2022/09/23/2965045467135084551_1000x1000.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Vol.1 听歌部部员们的入坑经历 ①]]></title>
+			<description><![CDATA[<p>听歌部部员们的某些入坑经历 其一<br>
+<br>
+<strong>本期嘉宾</strong>：洋葱+衣者+板板<br>
+<strong>本期主播</strong>：文森+浪姐<br>
+<br>
+在<a href="https://mo.run/nonrock/">各大平台</a>搜索订阅 “<strong>nonrockradio</strong>”即可：<br>
+Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br>
+<br>
+RSS 订阅：https://nonfm.github.io/podcast-host/feed.xml<br>
+若有任何想法，欢迎来信告诉我们：nonfm@vivaldi.net<br>
+<br>
+<strong>时间点</strong>：<br>
+00:56 洋葱-学校生活里的小规模逃离<br>
+18:02 衣者-非典型乐迷从日剧出发的音乐探险<br>
+35:47 板板-一个二次元的升级之路<br>
+<br>
+音频剪辑：千秋<br>
+<br>
+<strong>使用歌曲</strong>：<br>
+00:00 PUFFY - MOTHER (オリジナル・カラオケ)<br>
+02:58 ONE OK ROCK - ONION!<br>
+07:56 Pay money To my Pain - Voice〈P.T.P×Taka from ONE OK ROCK〉<br>
+12:17 Pay money To my Pain - Home<br>
+20:20 ストレイテナー - The Place Has No Name<br>
+22:38 ストレイテナー - From Noon Till Dawn<br>
+26:27 Nothing's Carved In Stone - November 15th<br>
+31:00 ストレイテナー - Lightning<br>
+41:36 古川本舗 - 月光食堂<br>
+44:17 Suchmos - Miree (BAY ver.)<br>
+50:01 放課後ティータイム - NO, Thank You! (TV size Ver.)</p>
+]]></description>
+			<link>https://nonfm.news.blog/2022/06/18/yi</link>
+			<guid>2022/07/25/2953882712147506694</guid>
+			<pubDate>Sat, 18 Jun 2022 04:21:00 +0800</pubDate>
+			<enclosure url="https://cdn.gzlzfm.com/audio/2022/07/25/2953882712147506694_ud.mp3" length="123790080" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:34</itunes:duration>
+			<itunes:image href="https://cdnimg101.mlychee.com/audio_cover/2022/07/25/2953882713987513863_1000x1000.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
